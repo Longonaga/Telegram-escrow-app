@@ -1,3 +1,4 @@
 node_modules
 .env
-
+./src/integrations/
+./src/db/
